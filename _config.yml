@@ -8,8 +8,6 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 
-robots: "noindex,nofollow"
-
 author:
   name: "Clara Ortega de San Luis"
 

@@ -1,7 +1,7 @@
 ---
 layout: home
-title: Molecular Mechanism of Memory
-subtitle: Ortega-de San Luis Lab
+title: Clara Ortega de San Luis Lab
+subtitle: Cognitive Neuroscience & Brain Dynamics
 ---
 
 <section id="about-us">
