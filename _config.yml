@@ -15,7 +15,7 @@ logo: "/assets/images/university1-logo.png"
 
 minimal_mistakes_skin: "default"
 search: true
-
+robots: "noindex,nofollow"
 include:
   - _pages
 
