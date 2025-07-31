@@ -2,7 +2,7 @@ title: Clara Ortega de San Luis Lab
 description: Cognitive Neuroscience & Brain Dynamics
 baseurl: ""
 url: "https://claraortegadesanluis.github.io"
-theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
