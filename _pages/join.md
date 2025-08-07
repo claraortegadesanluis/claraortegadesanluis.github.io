@@ -1,6 +1,9 @@
 ---
-title: Join
+title: "Join"
 permalink: /join/
+layout: single
 ---
 
-We are always looking for curious and motivated people. Check here for open positions.
+## Join Us
+
+Coming soon.

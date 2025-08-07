@@ -1,6 +1,9 @@
 ---
-title: Research
+title: "Research"
 permalink: /research/
+layout: single
 ---
 
-We investigate cognitive processes through EEG, fMRI, and computational models.
+## Our Research
+
+Coming soon.

@@ -1,36 +1,9 @@
-title: Clara Ortega de San Luis Lab
-description: Cognitive Neuroscience & Brain Dynamics
+title: "Clara Ortega de San Luis Lab"
+email: "clara@example.com"
+description: >-
+  Research group led by Clara Ortega de San Luis.
 baseurl: ""
 url: "https://claraortegadesanluis.github.io"
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-sitemap
   - jekyll-include-cache
-
-author:
-  name: "Clara Ortega de San Luis"
-
-logo: "/assets/images/university1-logo.png"
-
-minimal_mistakes_skin: "default"
-search: true
-robots: "noindex,nofollow"
-include:
-  - _pages
-
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-
-nav:
-  - Home: /
-  - Research: /research/
-  - Publications: /publications/
-  - Team: /team/
-  - Join: /join/
-  - Contact: /contact/

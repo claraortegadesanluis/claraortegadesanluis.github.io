@@ -1,8 +1,9 @@
 ---
-title: Team
+title: "Team"
 permalink: /team/
+layout: single
 ---
 
-**Clara Ortega de San Luis** – Principal Investigator
+## Team Members
 
-More team members to be added here.
+Coming soon.

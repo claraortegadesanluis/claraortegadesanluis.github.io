@@ -1,6 +1,9 @@
 ---
-title: Publications
+title: "Publications"
 permalink: /publications/
+layout: single
 ---
 
-List of publications will go here. You can use Google Scholar or manually list them.
+## Publications
+
+Coming soon.

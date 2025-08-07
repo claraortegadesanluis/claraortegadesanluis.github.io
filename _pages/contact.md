@@ -1,6 +1,9 @@
 ---
-title: Contact
+title: "Contact"
 permalink: /contact/
+layout: single
 ---
 
-Feel free to reach out via email at: [clara@email.edu](mailto:clara@email.edu)
+## Contact
+
+Email us at clara@example.com
